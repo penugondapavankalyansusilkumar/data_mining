@@ -1,0 +1,7 @@
+{
+  "name": "Retail Sales Data Warehouse & Customer Mining Platform",
+  "description": "Comprehensive enterprise Data Warehouse, ETL pipeline, Star Schema modeling, RFM customer segmentation, and Power BI analytics platform for academic and industry presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
